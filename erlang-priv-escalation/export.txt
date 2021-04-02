@@ -1,0 +1,2930 @@
+==================================================
+Function Name     : UnenableRouter
+Address           : 0x1001f660
+Relative Address  : 0x0001f660
+Ordinal           : 288 (0x120)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetUnicastIpAddressEntry
+Address           : 0x100261e0
+Relative Address  : 0x000261e0
+Ordinal           : 287 (0x11f)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetTcpEntry
+Address           : 0x10023010
+Relative Address  : 0x00023010
+Ordinal           : 286 (0x11e)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetSessionCompartmentId
+Address           : 0x10024d70
+Relative Address  : 0x00024d70
+Ordinal           : 285 (0x11d)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetPerTcpConnectionStats
+Address           : 0x10022fb0
+Relative Address  : 0x00022fb0
+Ordinal           : 284 (0x11c)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetPerTcpConnectionEStats
+Address           : 0x10022f20
+Relative Address  : 0x00022f20
+Ordinal           : 283 (0x11b)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetPerTcp6ConnectionStats
+Address           : 0x10022e90
+Relative Address  : 0x00022e90
+Ordinal           : 282 (0x11a)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetPerTcp6ConnectionEStats
+Address           : 0x10022dd0
+Relative Address  : 0x00022dd0
+Ordinal           : 281 (0x119)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetNetworkInformation
+Address           : 0x10024cb0
+Relative Address  : 0x00024cb0
+Ordinal           : 280 (0x118)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetJobCompartmentId
+Address           : 0x10024c70
+Relative Address  : 0x00024c70
+Ordinal           : 279 (0x117)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetIpTTL
+Address           : 0x1001f580
+Relative Address  : 0x0001f580
+Ordinal           : 278 (0x116)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetIpStatisticsEx
+Address           : 0x1001f4e0
+Relative Address  : 0x0001f4e0
+Ordinal           : 277 (0x115)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetIpStatistics
+Address           : 0x1001f4c0
+Relative Address  : 0x0001f4c0
+Ordinal           : 276 (0x114)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetIpNetEntry2
+Address           : 0x10026f90
+Relative Address  : 0x00026f90
+Ordinal           : 274 (0x112)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetIpNetEntry
+Address           : 0x1001f4a0
+Relative Address  : 0x0001f4a0
+Ordinal           : 275 (0x113)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetIpInterfaceEntry
+Address           : 0x100280f0
+Relative Address  : 0x000280f0
+Ordinal           : 273 (0x111)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetIpForwardEntry2
+Address           : 0x10026990
+Relative Address  : 0x00026990
+Ordinal           : 271 (0x10f)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetIpForwardEntry
+Address           : 0x1001f480
+Relative Address  : 0x0001f480
+Ordinal           : 272 (0x110)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetInterfaceDnsSettings
+Address           : 0x10027a60
+Relative Address  : 0x00027a60
+Ordinal           : 270 (0x10e)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetIfEntry
+Address           : 0x1001d5f0
+Relative Address  : 0x0001d5f0
+Ordinal           : 269 (0x10d)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetDnsSettings
+Address           : 0x100279a0
+Relative Address  : 0x000279a0
+Ordinal           : 268 (0x10c)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetCurrentThreadCompartmentScope
+Address           : 0x1000c4c0
+Relative Address  : 0x0000c4c0
+Ordinal           : 267 (0x10b)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetCurrentThreadCompartmentId
+Address           : 0x10024c40
+Relative Address  : 0x00024c40
+Ordinal           : 266 (0x10a)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SetAdapterIpAddress
+Address           : 0x1001df30
+Relative Address  : 0x0001df30
+Ordinal           : 265 (0x109)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : SendARP
+Address           : 0x1001f3b0
+Relative Address  : 0x0001f3b0
+Ordinal           : 264 (0x108)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : RestoreMediaSense
+Address           : 0x1000d060
+Relative Address  : 0x0000d060
+Ordinal           : 263 (0x107)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ResolveNeighbor
+Address           : 0x1001f3a0
+Relative Address  : 0x0001f3a0
+Ordinal           : 262 (0x106)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ResolveIpNetEntry2
+Address           : 0x10010630
+Relative Address  : 0x00010630
+Ordinal           : 261 (0x105)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : register_icmp
+Address           : 0x10020b80
+Relative Address  : 0x00020b80
+Ordinal           : 293 (0x125)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ParseNetworkString
+Address           : 0x100104d0
+Relative Address  : 0x000104d0
+Ordinal           : 244 (0xf4)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : OpenCompartment
+Address           : 0x10024b50
+Relative Address  : 0x00024b50
+Ordinal           : 243 (0xf3)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NTTimeToNTPTime
+Address           : 0x1001f740
+Relative Address  : 0x0001f740
+Ordinal           : 228 (0xe4)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NTPTimeToNTFileTime
+Address           : 0x1001f6c0
+Relative Address  : 0x0001f6c0
+Ordinal           : 227 (0xe3)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NotifyUnicastIpAddressChange
+Address           : 0x10007b40
+Relative Address  : 0x00007b40
+Ordinal           : 242 (0xf2)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NotifyTeredoPortChange
+Address           : 0x100281d0
+Relative Address  : 0x000281d0
+Ordinal           : 241 (0xf1)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NotifyStableUnicastIpAddressTable
+Address           : 0x10026040
+Relative Address  : 0x00026040
+Ordinal           : 240 (0xf0)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NotifyRouteChange2
+Address           : 0x10010750
+Relative Address  : 0x00010750
+Ordinal           : 238 (0xee)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NotifyRouteChange
+Address           : 0x1001f370
+Relative Address  : 0x0001f370
+Ordinal           : 239 (0xef)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NotifyIpInterfaceChange
+Address           : 0x10007c00
+Relative Address  : 0x00007c00
+Ordinal           : 237 (0xed)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NotifyIfTimestampConfigChange
+Address           : 0x10024540
+Relative Address  : 0x00024540
+Ordinal           : 236 (0xec)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NotifyCompartmentChange
+Address           : 0x10024ad0
+Relative Address  : 0x00024ad0
+Ordinal           : 235 (0xeb)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NotifyAddrChange
+Address           : 0x100108f0
+Relative Address  : 0x000108f0
+Ordinal           : 234 (0xea)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NhpAllocateAndGetInterfaceInfoFromStack
+Address           : 0x1001c6a0
+Relative Address  : 0x0001c6a0
+Ordinal           : 233 (0xe9)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NhGetInterfaceNameFromGuid
+Address           : 0x1001d5a0
+Relative Address  : 0x0001d5a0
+Ordinal           : 232 (0xe8)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NhGetInterfaceNameFromDeviceGuid
+Address           : 0x1001d5a0
+Relative Address  : 0x0001d5a0
+Ordinal           : 231 (0xe7)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NhGetInterfaceDescriptionFromGuid
+Address           : 0x1001d4e0
+Relative Address  : 0x0001d4e0
+Ordinal           : 230 (0xe6)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : NhGetGuidFromInterfaceName
+Address           : 0x1001d4b0
+Relative Address  : 0x0001d4b0
+Ordinal           : 229 (0xe5)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : LookupPersistentUdpPortReservation
+Address           : 0x10020d30
+Relative Address  : 0x00020d30
+Ordinal           : 226 (0xe2)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : LookupPersistentTcpPortReservation
+Address           : 0x10020d00
+Relative Address  : 0x00020d00
+Ordinal           : 225 (0xe1)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : IpRenewAddress
+Address           : 0x1001f300
+Relative Address  : 0x0001f300
+Ordinal           : 224 (0xe0)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : IpReleaseAddress
+Address           : 0x1001f290
+Relative Address  : 0x0001f290
+Ordinal           : 223 (0xdf)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalSetUnicastIpAddressEntry
+Address           : 0x10025a70
+Relative Address  : 0x00025a70
+Ordinal           : 222 (0xde)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalSetTeredoPort
+Address           : 0x10028160
+Relative Address  : 0x00028160
+Ordinal           : 221 (0xdd)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalSetTcpEntry
+Address           : 0x1001df10
+Relative Address  : 0x0001df10
+Ordinal           : 220 (0xdc)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalSetIpStats
+Address           : 0x1001def0
+Relative Address  : 0x0001def0
+Ordinal           : 219 (0xdb)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalSetIpNetEntry2
+Address           : 0x10026de0
+Relative Address  : 0x00026de0
+Ordinal           : 217 (0xd9)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalSetIpNetEntry
+Address           : 0x1001ded0
+Relative Address  : 0x0001ded0
+Ordinal           : 218 (0xda)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalSetIpInterfaceEntry
+Address           : 0x10027e10
+Relative Address  : 0x00027e10
+Ordinal           : 216 (0xd8)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalSetIpForwardEntry2
+Address           : 0x10026710
+Relative Address  : 0x00026710
+Ordinal           : 214 (0xd6)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalSetIpForwardEntry
+Address           : 0x1001deb0
+Relative Address  : 0x0001deb0
+Ordinal           : 215 (0xd7)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalSetIfEntry
+Address           : 0x1001de90
+Relative Address  : 0x0001de90
+Ordinal           : 213 (0xd5)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalIcmpCreateFileEx
+Address           : 0x1001de60
+Relative Address  : 0x0001de60
+Ordinal           : 212 (0xd4)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetUnicastIpAddressTable
+Address           : 0x10025870
+Relative Address  : 0x00025870
+Ordinal           : 211 (0xd3)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetUnicastIpAddressEntry
+Address           : 0x10025850
+Relative Address  : 0x00025850
+Ordinal           : 210 (0xd2)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetUdpTableWithOwnerPid
+Address           : 0x1001de30
+Relative Address  : 0x0001de30
+Ordinal           : 209 (0xd1)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetUdpTableWithOwnerModule
+Address           : 0x1001de00
+Relative Address  : 0x0001de00
+Ordinal           : 208 (0xd0)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetUdpTableEx
+Address           : 0x1001ddd0
+Relative Address  : 0x0001ddd0
+Ordinal           : 207 (0xcf)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetUdpTable
+Address           : 0x1001dda0
+Relative Address  : 0x0001dda0
+Ordinal           : 206 (0xce)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetUdp6TableWithOwnerPid
+Address           : 0x1001dd70
+Relative Address  : 0x0001dd70
+Ordinal           : 205 (0xcd)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetUdp6TableWithOwnerModule
+Address           : 0x1001dd40
+Relative Address  : 0x0001dd40
+Ordinal           : 204 (0xcc)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetTunnelPhysicalAdapter
+Address           : 0x10020ec0
+Relative Address  : 0x00020ec0
+Ordinal           : 203 (0xcb)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetTcpTableWithOwnerPid
+Address           : 0x1001dd10
+Relative Address  : 0x0001dd10
+Ordinal           : 202 (0xca)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetTcpTableWithOwnerModule
+Address           : 0x1001dce0
+Relative Address  : 0x0001dce0
+Ordinal           : 201 (0xc9)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetTcpTableEx
+Address           : 0x1001dcb0
+Relative Address  : 0x0001dcb0
+Ordinal           : 200 (0xc8)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetTcpTable2
+Address           : 0x1001dc50
+Relative Address  : 0x0001dc50
+Ordinal           : 198 (0xc6)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetTcpTable
+Address           : 0x1001dc80
+Relative Address  : 0x0001dc80
+Ordinal           : 199 (0xc7)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetTcp6TableWithOwnerPid
+Address           : 0x1001dc20
+Relative Address  : 0x0001dc20
+Ordinal           : 197 (0xc5)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetTcp6TableWithOwnerModule
+Address           : 0x1001dbf0
+Relative Address  : 0x0001dbf0
+Ordinal           : 196 (0xc4)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetTcp6Table2
+Address           : 0x1001dbc0
+Relative Address  : 0x0001dbc0
+Ordinal           : 195 (0xc3)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetRtcSlotInformation
+Address           : 0x1000d180
+Relative Address  : 0x0000d180
+Ordinal           : 194 (0xc2)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetMulticastIpAddressTable
+Address           : 0x10025830
+Relative Address  : 0x00025830
+Ordinal           : 193 (0xc1)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetMulticastIpAddressEntry
+Address           : 0x10025810
+Relative Address  : 0x00025810
+Ordinal           : 192 (0xc0)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetIPPhysicalInterfaceForDestination
+Address           : 0x1000c7e0
+Relative Address  : 0x0000c7e0
+Ordinal           : 180 (0xb4)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetIpNetTable2
+Address           : 0x10026bc0
+Relative Address  : 0x00026bc0
+Ordinal           : 190 (0xbe)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetIpNetTable
+Address           : 0x1001daf0
+Relative Address  : 0x0001daf0
+Ordinal           : 191 (0xbf)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetIpNetEntry2
+Address           : 0x10006060
+Relative Address  : 0x00006060
+Ordinal           : 189 (0xbd)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetIpInterfaceTable
+Address           : 0x10007f00
+Relative Address  : 0x00007f00
+Ordinal           : 188 (0xbc)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetIpInterfaceEntry
+Address           : 0x100078a0
+Relative Address  : 0x000078a0
+Ordinal           : 187 (0xbb)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetIpForwardTable
+Address           : 0x1001dac0
+Relative Address  : 0x0001dac0
+Ordinal           : 186 (0xba)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetIpForwardEntry2
+Address           : 0x100264a0
+Relative Address  : 0x000264a0
+Ordinal           : 185 (0xb9)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetIpAddrTable
+Address           : 0x1001da90
+Relative Address  : 0x0001da90
+Ordinal           : 184 (0xb8)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetIfTable2
+Address           : 0x10027df0
+Relative Address  : 0x00027df0
+Ordinal           : 182 (0xb6)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetIfTable
+Address           : 0x1001da60
+Relative Address  : 0x0001da60
+Ordinal           : 183 (0xb7)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetIfEntry2
+Address           : 0x10027dd0
+Relative Address  : 0x00027dd0
+Ordinal           : 181 (0xb5)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetForwardIpTable2
+Address           : 0x10008a30
+Relative Address  : 0x00008a30
+Ordinal           : 179 (0xb3)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetBoundTcpEndpointTable
+Address           : 0x1001d920
+Relative Address  : 0x0001d920
+Ordinal           : 178 (0xb2)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetBoundTcp6EndpointTable
+Address           : 0x1001d8f0
+Relative Address  : 0x0001d8f0
+Ordinal           : 177 (0xb1)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetAnycastIpAddressTable
+Address           : 0x100257f0
+Relative Address  : 0x000257f0
+Ordinal           : 176 (0xb0)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalGetAnycastIpAddressEntry
+Address           : 0x100257d0
+Relative Address  : 0x000257d0
+Ordinal           : 175 (0xaf)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalFindInterfaceByAddress
+Address           : 0x10025720
+Relative Address  : 0x00025720
+Ordinal           : 174 (0xae)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalDeleteUnicastIpAddressEntry
+Address           : 0x10025700
+Relative Address  : 0x00025700
+Ordinal           : 173 (0xad)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalDeleteIpNetEntry2
+Address           : 0x10026b90
+Relative Address  : 0x00026b90
+Ordinal           : 171 (0xab)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalDeleteIpNetEntry
+Address           : 0x1001d8d0
+Relative Address  : 0x0001d8d0
+Ordinal           : 172 (0xac)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalDeleteIpForwardEntry2
+Address           : 0x10026470
+Relative Address  : 0x00026470
+Ordinal           : 169 (0xa9)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalDeleteIpForwardEntry
+Address           : 0x1001d8b0
+Relative Address  : 0x0001d8b0
+Ordinal           : 170 (0xaa)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalDeleteAnycastIpAddressEntry
+Address           : 0x100256e0
+Relative Address  : 0x000256e0
+Ordinal           : 168 (0xa8)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalCreateUnicastIpAddressEntry
+Address           : 0x100256c0
+Relative Address  : 0x000256c0
+Ordinal           : 167 (0xa7)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalCreateIpNetEntry2
+Address           : 0x10026b60
+Relative Address  : 0x00026b60
+Ordinal           : 165 (0xa5)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalCreateIpNetEntry
+Address           : 0x1001d890
+Relative Address  : 0x0001d890
+Ordinal           : 166 (0xa6)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalCreateIpForwardEntry2
+Address           : 0x10026440
+Relative Address  : 0x00026440
+Ordinal           : 163 (0xa3)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalCreateIpForwardEntry
+Address           : 0x1001d870
+Relative Address  : 0x0001d870
+Ordinal           : 164 (0xa4)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalCreateAnycastIpAddressEntry
+Address           : 0x100256a0
+Relative Address  : 0x000256a0
+Ordinal           : 162 (0xa2)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InternalCleanupPersistentStore
+Address           : 0x10027d50
+Relative Address  : 0x00027d50
+Ordinal           : 161 (0xa1)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InitializeUnicastIpAddressEntry
+Address           : 0x10025580
+Relative Address  : 0x00025580
+Ordinal           : 160 (0xa0)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InitializeIpInterfaceEntry
+Address           : 0x10027c30
+Relative Address  : 0x00027c30
+Ordinal           : 159 (0x9f)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InitializeIpForwardEntry
+Address           : 0x100108b0
+Relative Address  : 0x000108b0
+Ordinal           : 158 (0x9e)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : InitializeCompartmentEntry
+Address           : 0x10024a30
+Relative Address  : 0x00024a30
+Ordinal           : 157 (0x9d)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : if_nametoindex
+Address           : 0x100253a0
+Relative Address  : 0x000253a0
+Ordinal           : 292 (0x124)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : if_indextoname
+Address           : 0x10025360
+Relative Address  : 0x00025360
+Ordinal           : 291 (0x123)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : IcmpSendEcho2Ex
+Address           : 0x10020480
+Relative Address  : 0x00020480
+Ordinal           : 155 (0x9b)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : IcmpSendEcho2
+Address           : 0x10020440
+Relative Address  : 0x00020440
+Ordinal           : 154 (0x9a)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : IcmpSendEcho
+Address           : 0x10020780
+Relative Address  : 0x00020780
+Ordinal           : 156 (0x9c)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : IcmpParseReplies
+Address           : 0x100203f0
+Relative Address  : 0x000203f0
+Ordinal           : 153 (0x99)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : IcmpCreateFile
+Address           : 0x10020110
+Relative Address  : 0x00020110
+Ordinal           : 152 (0x98)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : IcmpCloseHandle
+Address           : 0x10020040
+Relative Address  : 0x00020040
+Ordinal           : 151 (0x97)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : Icmp6SendEcho2
+Address           : 0x1001fd30
+Relative Address  : 0x0001fd30
+Ordinal           : 150 (0x96)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : Icmp6ParseReplies
+Address           : 0x1001fcf0
+Relative Address  : 0x0001fcf0
+Ordinal           : 149 (0x95)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : Icmp6CreateFile
+Address           : 0x1001fbe0
+Relative Address  : 0x0001fbe0
+Ordinal           : 148 (0x94)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetWPAOACSupportLevel
+Address           : 0x10023f10
+Relative Address  : 0x00023f10
+Ordinal           : 147 (0x93)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetUniDirectionalAdapterInfo
+Address           : 0x1001f180
+Relative Address  : 0x0001f180
+Ordinal           : 144 (0x90)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetUnicastIpAddressTable
+Address           : 0x10007ae0
+Relative Address  : 0x00007ae0
+Ordinal           : 146 (0x92)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetUnicastIpAddressEntry
+Address           : 0x10006820
+Relative Address  : 0x00006820
+Ordinal           : 145 (0x91)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetUdpTable
+Address           : 0x100238e0
+Relative Address  : 0x000238e0
+Ordinal           : 143 (0x8f)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetUdpStatisticsEx2
+Address           : 0x10023790
+Relative Address  : 0x00023790
+Ordinal           : 141 (0x8d)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetUdpStatisticsEx
+Address           : 0x10023840
+Relative Address  : 0x00023840
+Ordinal           : 142 (0x8e)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetUdpStatistics
+Address           : 0x10023770
+Relative Address  : 0x00023770
+Ordinal           : 140 (0x8c)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetUdp6Table
+Address           : 0x100231f0
+Relative Address  : 0x000231f0
+Ordinal           : 139 (0x8b)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetTeredoPort
+Address           : 0x10028110
+Relative Address  : 0x00028110
+Ordinal           : 138 (0x8a)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetTcpTable2
+Address           : 0x10022830
+Relative Address  : 0x00022830
+Ordinal           : 136 (0x88)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetTcpTable
+Address           : 0x10022850
+Relative Address  : 0x00022850
+Ordinal           : 137 (0x89)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetTcpStatisticsEx2
+Address           : 0x100225e0
+Relative Address  : 0x000225e0
+Ordinal           : 134 (0x86)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetTcpStatisticsEx
+Address           : 0x10022710
+Relative Address  : 0x00022710
+Ordinal           : 135 (0x87)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetTcpStatistics
+Address           : 0x100225c0
+Relative Address  : 0x000225c0
+Ordinal           : 133 (0x85)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetTcp6Table2
+Address           : 0x10021d40
+Relative Address  : 0x00021d40
+Ordinal           : 131 (0x83)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetTcp6Table
+Address           : 0x10021f50
+Relative Address  : 0x00021f50
+Ordinal           : 132 (0x84)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetSessionCompartmentId
+Address           : 0x1000c9e0
+Relative Address  : 0x0000c9e0
+Ordinal           : 130 (0x82)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetRTTAndHopCount
+Address           : 0x1001fa10
+Relative Address  : 0x0001fa10
+Ordinal           : 129 (0x81)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetPerTcpConnectionStats
+Address           : 0x10021cd0
+Relative Address  : 0x00021cd0
+Ordinal           : 128 (0x80)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetPerTcpConnectionEStats
+Address           : 0x10021b30
+Relative Address  : 0x00021b30
+Ordinal           : 127 (0x7f)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetPerTcp6ConnectionStats
+Address           : 0x10021aa0
+Relative Address  : 0x00021aa0
+Ordinal           : 126 (0x7e)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetPerTcp6ConnectionEStats
+Address           : 0x100218d0
+Relative Address  : 0x000218d0
+Ordinal           : 125 (0x7d)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetPerAdapterInfo
+Address           : 0x1001c3b0
+Relative Address  : 0x0001c3b0
+Ordinal           : 124 (0x7c)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetOwnerModuleFromUdpEntry
+Address           : 0x100231b0
+Relative Address  : 0x000231b0
+Ordinal           : 123 (0x7b)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetOwnerModuleFromUdp6Entry
+Address           : 0x10023170
+Relative Address  : 0x00023170
+Ordinal           : 122 (0x7a)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetOwnerModuleFromTcpEntry
+Address           : 0x10021890
+Relative Address  : 0x00021890
+Ordinal           : 121 (0x79)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetOwnerModuleFromTcp6Entry
+Address           : 0x10021850
+Relative Address  : 0x00021850
+Ordinal           : 120 (0x78)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetOwnerModuleFromPidAndInfo
+Address           : 0x1001ba50
+Relative Address  : 0x0001ba50
+Ordinal           : 119 (0x77)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetNumberOfInterfaces
+Address           : 0x1001d450
+Relative Address  : 0x0001d450
+Ordinal           : 118 (0x76)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetNetworkParams
+Address           : 0x1001c2e0
+Relative Address  : 0x0001c2e0
+Ordinal           : 117 (0x75)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetNetworkInformation
+Address           : 0x10024970
+Relative Address  : 0x00024970
+Ordinal           : 116 (0x74)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetMulticastIpAddressTable
+Address           : 0x100254c0
+Relative Address  : 0x000254c0
+Ordinal           : 115 (0x73)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetMulticastIpAddressEntry
+Address           : 0x100254a0
+Relative Address  : 0x000254a0
+Ordinal           : 114 (0x72)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetJobCompartmentId
+Address           : 0x10024920
+Relative Address  : 0x00024920
+Ordinal           : 113 (0x71)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpStatisticsEx
+Address           : 0x1001ef90
+Relative Address  : 0x0001ef90
+Ordinal           : 112 (0x70)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpStatistics
+Address           : 0x1001ef70
+Relative Address  : 0x0001ef70
+Ordinal           : 111 (0x6f)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpPathTable
+Address           : 0x10027520
+Relative Address  : 0x00027520
+Ordinal           : 110 (0x6e)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpPathEntry
+Address           : 0x10027330
+Relative Address  : 0x00027330
+Ordinal           : 109 (0x6d)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpNetworkConnectionBandwidthEstimates
+Address           : 0x10027b90
+Relative Address  : 0x00027b90
+Ordinal           : 108 (0x6c)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpNetTable2
+Address           : 0x10026a90
+Relative Address  : 0x00026a90
+Ordinal           : 106 (0x6a)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpNetTable
+Address           : 0x1001edd0
+Relative Address  : 0x0001edd0
+Ordinal           : 107 (0x6b)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpNetEntry2
+Address           : 0x10006040
+Relative Address  : 0x00006040
+Ordinal           : 105 (0x69)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpInterfaceTable
+Address           : 0x100069b0
+Relative Address  : 0x000069b0
+Ordinal           : 104 (0x68)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpInterfaceEntry
+Address           : 0x10007840
+Relative Address  : 0x00007840
+Ordinal           : 103 (0x67)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpForwardTable2
+Address           : 0x10006020
+Relative Address  : 0x00006020
+Ordinal           : 101 (0x65)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpForwardTable
+Address           : 0x1001eaf0
+Relative Address  : 0x0001eaf0
+Ordinal           : 102 (0x66)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpForwardEntry2
+Address           : 0x10026240
+Relative Address  : 0x00026240
+Ordinal           : 100 (0x64)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpErrorString
+Address           : 0x1001c610
+Relative Address  : 0x0001c610
+Ordinal           : 99 (0x63)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIpAddrTable
+Address           : 0x1001e900
+Relative Address  : 0x0001e900
+Ordinal           : 98 (0x62)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetInvertedIfStackTable
+Address           : 0x10027b80
+Relative Address  : 0x00027b80
+Ordinal           : 97 (0x61)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetInterfaceInfo
+Address           : 0x1001d2b0
+Relative Address  : 0x0001d2b0
+Ordinal           : 96 (0x60)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetInterfaceHardwareTimestampCapabilities
+Address           : 0x100243a0
+Relative Address  : 0x000243a0
+Ordinal           : 95 (0x5f)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetInterfaceDnsSettings
+Address           : 0x100278b0
+Relative Address  : 0x000278b0
+Ordinal           : 94 (0x5e)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetInterfaceCurrentTimestampCapabilities
+Address           : 0x10024250
+Relative Address  : 0x00024250
+Ordinal           : 93 (0x5d)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetInterfaceCompartmentId
+Address           : 0x100248d0
+Relative Address  : 0x000248d0
+Ordinal           : 92 (0x5c)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIfTable2Ex
+Address           : 0x10005f80
+Relative Address  : 0x00005f80
+Ordinal           : 90 (0x5a)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIfTable2
+Address           : 0x10006000
+Relative Address  : 0x00006000
+Ordinal           : 89 (0x59)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIfTable
+Address           : 0x1001d140
+Relative Address  : 0x0001d140
+Ordinal           : 91 (0x5b)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIfStackTable
+Address           : 0x10006450
+Relative Address  : 0x00006450
+Ordinal           : 88 (0x58)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIfEntry2Ex
+Address           : 0x10006d60
+Relative Address  : 0x00006d60
+Ordinal           : 86 (0x56)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIfEntry2
+Address           : 0x10006d40
+Relative Address  : 0x00006d40
+Ordinal           : 85 (0x55)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIfEntry
+Address           : 0x1001d050
+Relative Address  : 0x0001d050
+Ordinal           : 87 (0x57)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIcmpStatisticsEx
+Address           : 0x1001e810
+Relative Address  : 0x0001e810
+Ordinal           : 84 (0x54)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetIcmpStatistics
+Address           : 0x1001e7c0
+Relative Address  : 0x0001e7c0
+Ordinal           : 83 (0x53)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetFriendlyIfIndex
+Address           : 0x1001d030
+Relative Address  : 0x0001d030
+Ordinal           : 82 (0x52)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetExtendedUdpTable
+Address           : 0x100230e0
+Relative Address  : 0x000230e0
+Ordinal           : 81 (0x51)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetExtendedTcpTable
+Address           : 0x10021760
+Relative Address  : 0x00021760
+Ordinal           : 80 (0x50)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetDnsSettings
+Address           : 0x10027800
+Relative Address  : 0x00027800
+Ordinal           : 79 (0x4f)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetDefaultCompartmentId
+Address           : 0x100067a0
+Relative Address  : 0x000067a0
+Ordinal           : 78 (0x4e)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetCurrentThreadCompartmentScope
+Address           : 0x10006320
+Relative Address  : 0x00006320
+Ordinal           : 77 (0x4d)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetCurrentThreadCompartmentId
+Address           : 0x10007860
+Relative Address  : 0x00007860
+Ordinal           : 76 (0x4c)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetBestRoute2
+Address           : 0x10006500
+Relative Address  : 0x00006500
+Ordinal           : 74 (0x4a)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetBestRoute
+Address           : 0x1001e670
+Relative Address  : 0x0001e670
+Ordinal           : 75 (0x4b)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetBestInterfaceEx
+Address           : 0x10008300
+Relative Address  : 0x00008300
+Ordinal           : 73 (0x49)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetBestInterface
+Address           : 0x1000ca30
+Relative Address  : 0x0000ca30
+Ordinal           : 72 (0x48)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetAnycastIpAddressTable
+Address           : 0x10025480
+Relative Address  : 0x00025480
+Ordinal           : 71 (0x47)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetAnycastIpAddressEntry
+Address           : 0x10025460
+Relative Address  : 0x00025460
+Ordinal           : 70 (0x46)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetAdaptersInfo
+Address           : 0x10005620
+Relative Address  : 0x00005620
+Ordinal           : 69 (0x45)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetAdaptersAddresses
+Address           : 0x100090d0
+Relative Address  : 0x000090d0
+Ordinal           : 68 (0x44)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetAdapterOrderMap
+Address           : 0x1001cf40
+Relative Address  : 0x0001cf40
+Ordinal           : 67 (0x43)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : GetAdapterIndex
+Address           : 0x1001cec0
+Relative Address  : 0x0001cec0
+Ordinal           : 66 (0x42)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : FreeMibTable
+Address           : 0x1000ced0
+Relative Address  : 0x0000ced0
+Ordinal           : 65 (0x41)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : FreeInterfaceDnsSettings
+Address           : 0x10027790
+Relative Address  : 0x00027790
+Ordinal           : 64 (0x40)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : FreeDnsSettings
+Address           : 0x10027730
+Relative Address  : 0x00027730
+Ordinal           : 63 (0x3f)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : FlushIpPathTable
+Address           : 0x10027290
+Relative Address  : 0x00027290
+Ordinal           : 62 (0x3e)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : FlushIpNetTable2
+Address           : 0x100269f0
+Relative Address  : 0x000269f0
+Ordinal           : 60 (0x3c)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : FlushIpNetTable
+Address           : 0x1001e610
+Relative Address  : 0x0001e610
+Ordinal           : 61 (0x3d)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : EnableRouter
+Address           : 0x1001e5c0
+Relative Address  : 0x0001e5c0
+Ordinal           : 59 (0x3b)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : do_echo_req
+Address           : 0x10020aa0
+Relative Address  : 0x00020aa0
+Ordinal           : 290 (0x122)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : do_echo_rep
+Address           : 0x10020930
+Relative Address  : 0x00020930
+Ordinal           : 289 (0x121)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DisableMediaSense
+Address           : 0x1000d060
+Relative Address  : 0x0000d060
+Ordinal           : 58 (0x3a)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DeleteUnicastIpAddressEntry
+Address           : 0x10025440
+Relative Address  : 0x00025440
+Ordinal           : 57 (0x39)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DeleteProxyArpEntry
+Address           : 0x1001e5a0
+Relative Address  : 0x0001e5a0
+Ordinal           : 56 (0x38)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DeletePersistentUdpPortReservation
+Address           : 0x10020c40
+Relative Address  : 0x00020c40
+Ordinal           : 55 (0x37)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DeletePersistentTcpPortReservation
+Address           : 0x10020c10
+Relative Address  : 0x00020c10
+Ordinal           : 54 (0x36)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DeleteIpNetEntry2
+Address           : 0x100269d0
+Relative Address  : 0x000269d0
+Ordinal           : 52 (0x34)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DeleteIpNetEntry
+Address           : 0x1001e520
+Relative Address  : 0x0001e520
+Ordinal           : 53 (0x35)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DeleteIpForwardEntry2
+Address           : 0x10026220
+Relative Address  : 0x00026220
+Ordinal           : 50 (0x32)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DeleteIpForwardEntry
+Address           : 0x1001e470
+Relative Address  : 0x0001e470
+Ordinal           : 51 (0x33)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DeleteIPAddress
+Address           : 0x1001e3e0
+Relative Address  : 0x0001e3e0
+Ordinal           : 49 (0x31)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DeleteCompartment
+Address           : 0x100248a0
+Relative Address  : 0x000248a0
+Ordinal           : 48 (0x30)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DeleteAnycastIpAddressEntry
+Address           : 0x10025420
+Relative Address  : 0x00025420
+Ordinal           : 47 (0x2f)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CreateUnicastIpAddressEntry
+Address           : 0x10025400
+Relative Address  : 0x00025400
+Ordinal           : 46 (0x2e)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CreateSortedAddressPairs
+Address           : 0x10026fb0
+Relative Address  : 0x00026fb0
+Ordinal           : 45 (0x2d)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CreateProxyArpEntry
+Address           : 0x1001e3c0
+Relative Address  : 0x0001e3c0
+Ordinal           : 44 (0x2c)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CreatePersistentUdpPortReservation
+Address           : 0x10020be0
+Relative Address  : 0x00020be0
+Ordinal           : 43 (0x2b)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CreatePersistentTcpPortReservation
+Address           : 0x10020bb0
+Relative Address  : 0x00020bb0
+Ordinal           : 42 (0x2a)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CreateIpNetEntry2
+Address           : 0x100269b0
+Relative Address  : 0x000269b0
+Ordinal           : 40 (0x28)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CreateIpNetEntry
+Address           : 0x1001e1a0
+Relative Address  : 0x0001e1a0
+Ordinal           : 41 (0x29)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CreateIpForwardEntry2
+Address           : 0x10026200
+Relative Address  : 0x00026200
+Ordinal           : 38 (0x26)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CreateIpForwardEntry
+Address           : 0x1001e180
+Relative Address  : 0x0001e180
+Ordinal           : 39 (0x27)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CreateCompartment
+Address           : 0x10024770
+Relative Address  : 0x00024770
+Ordinal           : 37 (0x25)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CreateAnycastIpAddressEntry
+Address           : 0x100253e0
+Relative Address  : 0x000253e0
+Ordinal           : 36 (0x24)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertStringToInterfacePhysicalAddress
+Address           : 0x10025270
+Relative Address  : 0x00025270
+Ordinal           : 35 (0x23)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertStringToGuidW
+Address           : 0x1000d0a0
+Relative Address  : 0x0000d0a0
+Ordinal           : 34 (0x22)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertStringToGuidA
+Address           : 0x1001cc60
+Relative Address  : 0x0001cc60
+Ordinal           : 33 (0x21)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertRemoteInterfaceLuidToIndex
+Address           : 0x1001cc00
+Relative Address  : 0x0001cc00
+Ordinal           : 32 (0x20)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertRemoteInterfaceLuidToGuid
+Address           : 0x1001cb90
+Relative Address  : 0x0001cb90
+Ordinal           : 31 (0x1f)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertRemoteInterfaceLuidToAlias
+Address           : 0x1001cab0
+Relative Address  : 0x0001cab0
+Ordinal           : 30 (0x1e)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertRemoteInterfaceIndexToLuid
+Address           : 0x1001ca60
+Relative Address  : 0x0001ca60
+Ordinal           : 29 (0x1d)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertRemoteInterfaceGuidToLuid
+Address           : 0x1001c970
+Relative Address  : 0x0001c970
+Ordinal           : 28 (0x1c)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertRemoteInterfaceAliasToLuid
+Address           : 0x1001c840
+Relative Address  : 0x0001c840
+Ordinal           : 27 (0x1b)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertLengthToIpv4Mask
+Address           : 0x10005b40
+Relative Address  : 0x00005b40
+Ordinal           : 26 (0x1a)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertIpv4MaskToLength
+Address           : 0x10024600
+Relative Address  : 0x00024600
+Ordinal           : 25 (0x19)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertInterfacePhysicalAddressToLuid
+Address           : 0x10025150
+Relative Address  : 0x00025150
+Ordinal           : 24 (0x18)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertInterfaceNameToLuidW
+Address           : 0x1000c660
+Relative Address  : 0x0000c660
+Ordinal           : 23 (0x17)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertInterfaceNameToLuidA
+Address           : 0x100250b0
+Relative Address  : 0x000250b0
+Ordinal           : 22 (0x16)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertInterfaceLuidToNameW
+Address           : 0x10009030
+Relative Address  : 0x00009030
+Ordinal           : 21 (0x15)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertInterfaceLuidToNameA
+Address           : 0x10025030
+Relative Address  : 0x00025030
+Ordinal           : 20 (0x14)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertInterfaceLuidToIndex
+Address           : 0x100062c0
+Relative Address  : 0x000062c0
+Ordinal           : 19 (0x13)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertInterfaceLuidToGuid
+Address           : 0x1000c980
+Relative Address  : 0x0000c980
+Ordinal           : 18 (0x12)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertInterfaceLuidToAlias
+Address           : 0x100107e0
+Relative Address  : 0x000107e0
+Ordinal           : 17 (0x11)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertInterfaceIndexToLuid
+Address           : 0x100077f0
+Relative Address  : 0x000077f0
+Ordinal           : 16 (0x10)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertInterfaceGuidToLuid
+Address           : 0x10006380
+Relative Address  : 0x00006380
+Ordinal           : 15 (0xf)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertInterfaceAliasToLuid
+Address           : 0x10024ed0
+Relative Address  : 0x00024ed0
+Ordinal           : 14 (0xe)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertGuidToStringW
+Address           : 0x100079f0
+Relative Address  : 0x000079f0
+Ordinal           : 13 (0xd)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertGuidToStringA
+Address           : 0x10007a70
+Relative Address  : 0x00007a70
+Ordinal           : 12 (0xc)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertCompartmentIdToGuid
+Address           : 0x10024e20
+Relative Address  : 0x00024e20
+Ordinal           : 11 (0xb)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : ConvertCompartmentGuidToId
+Address           : 0x10024db0
+Relative Address  : 0x00024db0
+Ordinal           : 10 (0xa)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CloseGetIPPhysicalInterfaceForDestination
+Address           : 0x1001d790
+Relative Address  : 0x0001d790
+Ordinal           : 9 (0x9)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CloseCompartment
+Address           : 0x10024750
+Relative Address  : 0x00024750
+Ordinal           : 8 (0x8)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CaptureInterfaceHardwareCrossTimestamp
+Address           : 0x10024100
+Relative Address  : 0x00024100
+Ordinal           : 7 (0x7)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CancelMibChangeNotify2
+Address           : 0x1000cda0
+Relative Address  : 0x0000cda0
+Ordinal           : 6 (0x6)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CancelIPChangeNotify
+Address           : 0x1000cfe0
+Relative Address  : 0x0000cfe0
+Ordinal           : 4 (0x4)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : CancelIfTimestampConfigChange
+Address           : 0x100240c0
+Relative Address  : 0x000240c0
+Ordinal           : 5 (0x5)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : AllocateAndGetIpAddrTableFromStack
+Address           : 0x1001d760
+Relative Address  : 0x0001d760
+Ordinal           : 3 (0x3)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : AllocateAndGetInterfaceInfoFromStack
+Address           : 0x1001c6a0
+Relative Address  : 0x0001c6a0
+Ordinal           : 2 (0x2)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : AddIPAddress
+Address           : 0x1001e080
+Relative Address  : 0x0001e080
+Ordinal           : 1 (0x1)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfUnBindInterface@4
+Address           : 0x1001f9d0
+Relative Address  : 0x0001f9d0
+Ordinal           : 260 (0x104)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfTestPacket@20
+Address           : 0x1001f9f0
+Relative Address  : 0x0001f9f0
+Ordinal           : 259 (0x103)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfSetLogBuffer@28
+Address           : 0x1001fa00
+Relative Address  : 0x0001fa00
+Ordinal           : 258 (0x102)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfRemoveGlobalFilterFromInterface@8
+Address           : 0x1001f9a0
+Relative Address  : 0x0001f9a0
+Ordinal           : 257 (0x101)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfRemoveFiltersFromInterface@20
+Address           : 0x1001f9f0
+Relative Address  : 0x0001f9f0
+Ordinal           : 256 (0x100)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfRemoveFilterHandles@12
+Address           : 0x1001f9b0
+Relative Address  : 0x0001f9b0
+Ordinal           : 255 (0xff)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfRebindFilters@8
+Address           : 0x1001f9a0
+Relative Address  : 0x0001f9a0
+Ordinal           : 254 (0xfe)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfMakeLog@4
+Address           : 0x1001f9d0
+Relative Address  : 0x0001f9d0
+Ordinal           : 253 (0xfd)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfGetInterfaceStatistics@16
+Address           : 0x1001f9c0
+Relative Address  : 0x0001f9c0
+Ordinal           : 252 (0xfc)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfDeleteLog@0
+Address           : 0x1001f9e0
+Relative Address  : 0x0001f9e0
+Ordinal           : 251 (0xfb)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfDeleteInterface@4
+Address           : 0x1001f9d0
+Relative Address  : 0x0001f9d0
+Ordinal           : 250 (0xfa)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfCreateInterface@24
+Address           : 0x1001f990
+Relative Address  : 0x0001f990
+Ordinal           : 249 (0xf9)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfBindInterfaceToIPAddress@12
+Address           : 0x1001f9b0
+Relative Address  : 0x0001f9b0
+Ordinal           : 247 (0xf7)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfBindInterfaceToIndex@16
+Address           : 0x1001f9c0
+Relative Address  : 0x0001f9c0
+Ordinal           : 248 (0xf8)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfAddGlobalFilterToInterface@8
+Address           : 0x1001f9a0
+Relative Address  : 0x0001f9a0
+Ordinal           : 246 (0xf6)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : _PfAddFiltersToInterface@24
+Address           : 0x1001f990
+Relative Address  : 0x0001f990
+Ordinal           : 245 (0xf5)
+Filename          : IPHLPAPI.DLL
+Full Path         : C:\Windows\System32\IPHLPAPI.DLL
+Type              : Exported Function
+==================================================
+
