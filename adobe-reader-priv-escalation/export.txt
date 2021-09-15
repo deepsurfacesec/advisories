@@ -1,0 +1,30 @@
+==================================================
+Function Name     : IsDestinationReachableA
+Address           : 0x760016e0
+Relative Address  : 0x000016e0
+Ordinal           : 1 (0x1)
+Filename          : SensApi.dll
+Full Path         : C:\Windows\System32\SensApi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : IsDestinationReachableW
+Address           : 0x760016e0
+Relative Address  : 0x000016e0
+Ordinal           : 2 (0x2)
+Filename          : SensApi.dll
+Full Path         : C:\Windows\System32\SensApi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : IsNetworkAlive
+Address           : 0x76001620
+Relative Address  : 0x00001620
+Ordinal           : 3 (0x3)
+Filename          : SensApi.dll
+Full Path         : C:\Windows\System32\SensApi.dll
+Type              : Exported Function
+==================================================
+
