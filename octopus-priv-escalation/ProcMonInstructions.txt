@@ -1,0 +1,21 @@
+Identifying DLL Hijacking in Windows Installers
+===============================================
+
+Download and start up Sysinternals' Process Monitor
+
+Add the following filter rules:
+ "Operation" "is" "CreateFile"
+ "Process Name" "contains" "(substring-from-installer-exe-name)"
+ "Path" "contains" "Downloads" (if Downloads is the location of the installer EXE)
+
+Run your installer EXE and allow it to run with privileges.  
+
+Return to Process Monitor and look for any CreateFile calls that
+attempted to open DLL files in the same directory as the EXE.  If it
+did, then it is probably vulnerable to DLL sideloading/hijacking.  You
+can try dropping a malicious DLL (built from this directory) and save
+it as the same name as the DLL it is looking for.  Note that
+"VERSION.DLL" is weird when you try to drop a malicious version of it,
+and I haven't got it working when I've tried it.  Try another DLL name
+if possible..
+
