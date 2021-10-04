@@ -11,5 +11,5 @@ if [ "x$1" != "x" ]; then
 fi
 
 cp dll-source.c build/${BASENAME}.c;
-( cd build && $GCC -c -DBUILD_DLL ${BASENAME}.c );
+( cd build && $GCC -c ${BASENAME}.c );
 ( cd build && $GCC -shared -o ${BASENAME}.dll ${BASENAME}.o -Wl,--out-implib,lib${BASENAME}.a );
